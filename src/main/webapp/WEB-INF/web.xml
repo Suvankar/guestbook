@@ -26,7 +26,7 @@
     </servlet-mapping>
     <servlet-mapping>
         <servlet-name>sentmail</servlet-name>
-        <url-pattern>/sentmailk</url-pattern>
+        <url-pattern>/sentmail</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
         <welcome-file>guestbook.jsp</welcome-file>
